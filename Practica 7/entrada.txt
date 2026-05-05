@@ -1,0 +1,18 @@
+// Esto es un comentario de linea
+/* Esto es un 
+   comentario multilinea */
+
+int variable_entera = 150;
+float numero_decimal = 3.1416;
+
+0b1011 + 0755;
+0xFF / (10 - 2);
+
+string saludo = "Hola Mundo";
+char letra = 'A';
+
+if (variable_entera >= 100)
+    variable_entera++;
+
+while (numero_decimal != 0.0)
+    numero_decimal = 0.0;
